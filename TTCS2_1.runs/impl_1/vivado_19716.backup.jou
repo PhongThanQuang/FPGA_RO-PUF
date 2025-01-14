@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Tue Jan 14 10:57:16 2025
+# Process ID: 19716
+# Current directory: C:/Users/admin/Downloads/TTCS2_1.runs/impl_1
+# Command line: vivado.exe -log Hybrid2.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Hybrid2.tcl -notrace
+# Log file: C:/Users/admin/Downloads/TTCS2_1.runs/impl_1/Hybrid2.vdi
+# Journal file: C:/Users/admin/Downloads/TTCS2_1.runs/impl_1\vivado.jou
+# Running On: LAP-PhongTQ-01, OS: Windows, CPU Frequency: 2496 MHz, CPU Physical cores: 4, Host memory: 17008 MB
+#-----------------------------------------------------------
+source Hybrid2.tcl -notrace
